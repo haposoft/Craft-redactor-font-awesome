@@ -1,4 +1,5 @@
-@import '//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css';
+/* Push your self-hosted fontawsome pro version to web/vendor */
+@import '/vendor/fontawesome/css/all.css';
 
 .iconContents {
     height: 550px;
