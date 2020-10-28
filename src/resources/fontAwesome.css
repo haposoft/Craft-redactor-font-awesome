@@ -1,4 +1,4 @@
-/* Push your self-hosted fontawsome pro version to web/vendor */
+/* Push your self-hosted fontawsome pro version to <path-to-craft-cms-project>/web/vendor */
 @import '/vendor/fontawesome/css/all.css';
 
 .iconContents {
